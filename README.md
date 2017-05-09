@@ -1,3 +1,7 @@
-# hello-world
-First test project in GITHUB
-I am now editing readme-edit branch readmefile
+# Starter Web Repo
+
+This repository is for showing how Git and GitHub work
+
+## Purpose
+
+Sample website with plenty of files for demos
